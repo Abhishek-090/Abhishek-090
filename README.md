@@ -27,7 +27,7 @@ Hi 🙏, I'm Abhishek Kumar Thakur<br>A passionate software-developer student fr
 [![website](./img/globe-dark.svg)](https://codepen.io/abhishek-090#gh-light-mode-only#gh-dark-mode-only)
  
  
-
+[![An image of @abhishek0906's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishek0906)](https://holopin.io/@abhishek0906)
 
 # 💻 Tech Stack:
 
@@ -53,18 +53,9 @@ Hi 🙏, I'm Abhishek Kumar Thakur<br>A passionate software-developer student fr
 ![](https://github-profile-trophy.vercel.app/?username=Abhishek-090&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=#)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abhishek-090&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhishek-090&icon=5&color=1)](https://visitcount.itsvg.in)
